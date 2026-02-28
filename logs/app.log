@@ -1,0 +1,1376 @@
+[2026-02-27 01:17:02] APP_START - Application started
+[2026-02-27 01:17:03] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 01:23:37] APP_START - Application started
+[2026-02-27 01:23:37] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 01:23:45] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 01:25:01] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 01:25:04] CAMERA_STARTED - Live camera feed started
+[2026-02-27 01:26:41] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 01:26:42] CAMERA_STARTED - Live camera feed started
+[2026-02-27 01:27:07] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 01:27:49] CAMERA_STARTED - Live camera feed started
+[2026-02-27 01:30:21] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 01:34:45] APP_CLOSE - Application closed
+[2026-02-27 01:57:46] APP_START - Application started
+[2026-02-27 01:57:46] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 01:57:54] CAMERA_STARTED - Live camera feed started
+[2026-02-27 01:58:17] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 01:58:19] CAMERA_STARTED - Live camera feed started
+[2026-02-27 01:58:39] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 01:58:40] CAMERA_STARTED - Live camera feed started
+[2026-02-27 01:58:47] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 01:58:48] CAMERA_STARTED - Live camera feed started
+[2026-02-27 01:59:38] FRAME_CAPTURED - Frame captured and saved: capture-1772137778486.png
+[2026-02-27 01:59:38] UI_INTERACTION - Image selected for preview: capture-1772137778486.png
+[2026-02-27 01:59:38] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:00:16] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 02:00:17] CAMERA_STARTED - Live camera feed started
+[2026-02-27 02:01:10] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 02:01:11] CAMERA_STARTED - Live camera feed started
+[2026-02-27 02:02:33] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 02:02:34] CAMERA_STARTED - Live camera feed started
+[2026-02-27 02:03:16] APP_CLOSE - Application closed
+[2026-02-27 02:03:37] APP_START - Application started
+[2026-02-27 02:03:37] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 02:04:05] CAMERA_STARTED - Live camera feed started
+[2026-02-27 02:04:34] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 02:04:35] CAMERA_STARTED - Live camera feed started
+[2026-02-27 02:05:25] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 02:06:27] CAMERA_STARTED - Live camera feed started
+[2026-02-27 02:08:19] FRAME_CAPTURED - Frame captured and saved: capture-1772138299134.png
+[2026-02-27 02:08:19] UI_INTERACTION - Image selected for preview: capture-1772138299134.png
+[2026-02-27 02:08:19] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:08:21] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:08:22] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:08:46] FRAME_CAPTURED - Frame captured and saved: capture-1772138326924.png
+[2026-02-27 02:08:46] UI_INTERACTION - Image selected for preview: capture-1772138326924.png
+[2026-02-27 02:08:46] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:08:48] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:08:48] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:08:58] FRAME_CAPTURED - Frame captured and saved: capture-1772138338688.png
+[2026-02-27 02:08:58] UI_INTERACTION - Image selected for preview: capture-1772138338688.png
+[2026-02-27 02:08:58] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:09:00] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:09:01] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:09:35] FRAME_CAPTURED - Frame captured and saved: capture-1772138375232.png
+[2026-02-27 02:09:35] UI_INTERACTION - Image selected for preview: capture-1772138375232.png
+[2026-02-27 02:09:35] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:09:36] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:09:38] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:09:58] FRAME_CAPTURED - Frame captured and saved: capture-1772138398227.png
+[2026-02-27 02:09:58] UI_INTERACTION - Image selected for preview: capture-1772138398227.png
+[2026-02-27 02:09:58] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:10:00] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:10:01] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:10:10] FRAME_CAPTURED - Frame captured and saved: capture-1772138410634.png
+[2026-02-27 02:10:10] UI_INTERACTION - Image selected for preview: capture-1772138410634.png
+[2026-02-27 02:10:10] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:10:14] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:10:14] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:10:23] FRAME_CAPTURED - Frame captured and saved: capture-1772138423532.png
+[2026-02-27 02:10:23] UI_INTERACTION - Image selected for preview: capture-1772138423532.png
+[2026-02-27 02:10:23] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:10:24] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 02:10:26] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:10:26] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:10:44] CAMERA_STARTED - Live camera feed started
+[2026-02-27 02:10:56] FRAME_CAPTURED - Frame captured and saved: capture-1772138456257.png
+[2026-02-27 02:10:56] UI_INTERACTION - Image selected for preview: capture-1772138456257.png
+[2026-02-27 02:10:56] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:10:57] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:10:57] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:11:02] FRAME_CAPTURED - Frame captured and saved: capture-1772138462320.png
+[2026-02-27 02:11:02] UI_INTERACTION - Image selected for preview: capture-1772138462320.png
+[2026-02-27 02:11:02] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:11:03] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:11:03] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:11:19] FRAME_CAPTURED - Frame captured and saved: capture-1772138479871.png
+[2026-02-27 02:11:19] UI_INTERACTION - Image selected for preview: capture-1772138479871.png
+[2026-02-27 02:11:19] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:11:21] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:11:21] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:11:29] FRAME_CAPTURED - Frame captured and saved: capture-1772138489656.png
+[2026-02-27 02:11:29] UI_INTERACTION - Image selected for preview: capture-1772138489656.png
+[2026-02-27 02:11:29] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:11:31] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:11:31] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:11:47] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 02:11:49] CAMERA_STARTED - Live camera feed started
+[2026-02-27 02:12:01] FRAME_CAPTURED - Frame captured and saved: capture-1772138521907.png
+[2026-02-27 02:12:01] UI_INTERACTION - Image selected for preview: capture-1772138521907.png
+[2026-02-27 02:12:01] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:12:02] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:12:03] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:12:07] FRAME_CAPTURED - Frame captured and saved: capture-1772138527293.png
+[2026-02-27 02:12:07] UI_INTERACTION - Image selected for preview: capture-1772138527293.png
+[2026-02-27 02:12:07] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:12:08] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:12:08] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:12:13] FRAME_CAPTURED - Frame captured and saved: capture-1772138533710.png
+[2026-02-27 02:12:13] UI_INTERACTION - Image selected for preview: capture-1772138533710.png
+[2026-02-27 02:12:13] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:12:15] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:12:15] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:13:06] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 02:13:08] CAMERA_STARTED - Live camera feed started
+[2026-02-27 02:13:21] FRAME_CAPTURED - Frame captured and saved: capture-1772138601274.png
+[2026-02-27 02:13:21] UI_INTERACTION - Image selected for preview: capture-1772138601274.png
+[2026-02-27 02:13:21] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 02:13:25] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 02:13:25] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 02:14:02] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 02:14:09] APP_CLOSE - Application closed
+[2026-02-27 12:30:51] APP_START - Application started
+[2026-02-27 12:30:52] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 12:32:47] CAMERA_STARTED - Live camera feed started
+[2026-02-27 12:34:25] IMAGE_UPLOAD - Image uploaded: 1772175865446-Image1.jpg
+[2026-02-27 12:34:25] UI_INTERACTION - Image selected for preview: 1772175865446-Image1.jpg
+[2026-02-27 12:34:26] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 12:34:28] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 12:52:22] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 12:52:24] CAMERA_STARTED - Live camera feed started
+[2026-02-27 12:56:35] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 12:56:36] CAMERA_STARTED - Live camera feed started
+[2026-02-27 13:08:11] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 13:10:10] CAMERA_STARTED - Live camera feed started
+[2026-02-27 13:10:12] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:12] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:13] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:13] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:14] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:14] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:15] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:15] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:16] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:16] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:16] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:17] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:17] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:17] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:18] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:18] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:19] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:19] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:19] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:20] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:20] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:20] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:21] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:21] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:21] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:22] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:22] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:22] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:23] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:23] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:24] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:24] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:24] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:25] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 13:10:25] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 13:10:25] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 18:41:16] APP_START - Application started
+[2026-02-27 18:41:16] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 18:42:08] CAMERA_STARTED - Live camera feed started
+[2026-02-27 18:42:48] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 18:42:49] CAMERA_STARTED - Live camera feed started
+[2026-02-27 18:47:15] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 18:54:51] APP_START - Application started
+[2026-02-27 18:54:51] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 18:55:15] CAMERA_STARTED - Live camera feed started
+[2026-02-27 18:55:25] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 18:58:10] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 18:58:10] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 18:58:13] CAMERA_DEVICE_SELECTED - Camera selected: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 18:58:16] CAMERA_START_SUCCESS - Live camera feed started using: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 18:58:16] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 18:58:28] FRAME_CAPTURED - Frame captured and saved: capture-1772198908107.png
+[2026-02-27 18:58:28] UI_INTERACTION - Image selected for preview: capture-1772198908107.png
+[2026-02-27 18:58:28] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 18:58:32] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 18:58:34] AI_TEST_FAILED - Detection failed: Failed to fetch
+[2026-02-27 18:59:01] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 18:59:01] AI_TEST_FAILED - Detection failed: Backend Error 500
+[2026-02-27 18:59:02] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 18:59:02] AI_TEST_FAILED - Detection failed: Backend Error 500
+[2026-02-27 18:59:17] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 18:59:18] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 18:59:51] FRAME_CAPTURED - Frame captured and saved: capture-1772198991259.png
+[2026-02-27 18:59:51] UI_INTERACTION - Image selected for preview: capture-1772198991259.png
+[2026-02-27 18:59:51] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 18:59:54] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 18:59:54] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:01:14] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 19:10:38] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:10:38] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:10:40] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:10:40] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:10:41] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:10:42] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:10:42] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:10:42] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:10:43] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:10:43] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:11:19] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:11:19] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:11:25] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:11:25] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:11:27] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:11:28] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:11:43] CAMERA_START_SUCCESS - Live camera feed started using: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 19:11:43] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 19:11:44] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 19:11:49] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 19:11:49] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 19:13:18] IMAGE_UPLOAD - Image uploaded: 1772199798155-9871_9_2_2025_17_33_26_2_GARBAGE_SIKKANDHARCHAVADI__02.jpg
+[2026-02-27 19:13:18] UI_INTERACTION - Image selected for preview: 1772199798155-9871_9_2_2025_17_33_26_2_GARBAGE_SIKKANDHARCHAVADI__02.jpg
+[2026-02-27 19:13:19] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:13:19] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:13:22] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:13:23] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:18:45] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 19:18:45] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 19:20:00] IMAGE_UPLOAD - Image uploaded: 1772200200036-107645027.png
+[2026-02-27 19:20:00] UI_INTERACTION - Image selected for preview: 1772200200036-107645027.png
+[2026-02-27 19:20:01] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:20:02] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:43:39] CAMERA_START_SUCCESS - Live camera feed started using: vivo Y58 5G (Windows Virtual Camera)
+[2026-02-27 19:43:39] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 19:43:46] CAMERA_DEVICE_SELECTED - Camera selected: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 19:43:48] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 19:43:50] CAMERA_START_SUCCESS - Live camera feed started using: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 19:43:50] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 19:43:52] FRAME_CAPTURED - Frame captured and saved: capture-1772201632583.png
+[2026-02-27 19:43:52] UI_INTERACTION - Image selected for preview: capture-1772201632583.png
+[2026-02-27 19:43:52] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 19:43:54] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:43:54] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:55:25] FRAME_CAPTURED - Frame captured and saved: capture-1772202325443.png
+[2026-02-27 19:55:25] UI_INTERACTION - Image selected for preview: capture-1772202325443.png
+[2026-02-27 19:55:25] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 19:55:26] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:55:27] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:55:36] FRAME_CAPTURED - Frame captured and saved: capture-1772202336697.png
+[2026-02-27 19:55:36] UI_INTERACTION - Image selected for preview: capture-1772202336697.png
+[2026-02-27 19:55:36] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 19:55:38] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:55:38] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:55:56] FRAME_CAPTURED - Frame captured and saved: capture-1772202356968.png
+[2026-02-27 19:55:56] UI_INTERACTION - Image selected for preview: capture-1772202356968.png
+[2026-02-27 19:55:57] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 19:56:04] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:56:04] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:56:23] FRAME_CAPTURED - Frame captured and saved: capture-1772202383099.png
+[2026-02-27 19:56:23] UI_INTERACTION - Image selected for preview: capture-1772202383099.png
+[2026-02-27 19:56:23] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 19:56:24] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:56:25] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 19:56:34] FRAME_CAPTURED - Frame captured and saved: capture-1772202394296.png
+[2026-02-27 19:56:34] UI_INTERACTION - Image selected for preview: capture-1772202394296.png
+[2026-02-27 19:56:34] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 19:56:36] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 19:56:36] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 20:07:42] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 20:22:20] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 20:22:20] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:42:38] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 20:42:39] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:42:41] CAMERA_DEVICE_SELECTED - Camera selected: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 20:42:44] CAMERA_START_SUCCESS - Live camera feed started using: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 20:42:44] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:42:51] FRAME_CAPTURED - Frame captured and saved: capture-1772205171682.png
+[2026-02-27 20:42:51] UI_INTERACTION - Image selected for preview: capture-1772205171682.png
+[2026-02-27 20:42:51] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 20:42:54] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 20:43:05] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 20:43:22] CAMERA_DEVICE_SELECTED - Camera selected: vivo Y58 5G (Windows Virtual Camera)
+[2026-02-27 20:43:23] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:43:25] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 20:43:33] CAMERA_START_SUCCESS - Live camera feed started using: vivo Y58 5G (Windows Virtual Camera)
+[2026-02-27 20:43:33] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:43:57] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 20:43:59] CAMERA_START_SUCCESS - Live camera feed started using: vivo Y58 5G (Windows Virtual Camera)
+[2026-02-27 20:43:59] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:44:23] CAMERA_STOPPED - Live camera feed stopped
+[2026-02-27 20:44:29] CAMERA_DEVICE_SELECTED - Camera selected: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 20:44:31] CAMERA_START_SUCCESS - Live camera feed started using: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 20:44:31] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:44:37] FRAME_CAPTURED - Frame captured and saved: capture-1772205277510.png
+[2026-02-27 20:44:37] UI_INTERACTION - Image selected for preview: capture-1772205277510.png
+[2026-02-27 20:44:37] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 20:44:39] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 20:45:01] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 20:45:16] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 20:45:16] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:45:25] IMAGE_UPLOAD - Image uploaded: 1772205325013-107645027.png
+[2026-02-27 20:45:25] UI_INTERACTION - Image selected for preview: 1772205325013-107645027.png
+[2026-02-27 20:45:26] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 20:45:44] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 20:47:19] CAMERA_START_SUCCESS - Live camera feed started using: vivo Y58 5G (Windows Virtual Camera)
+[2026-02-27 20:47:19] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:51:32] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:52:10] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 20:52:10] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:52:18] IMAGE_UPLOAD - Image uploaded: 1772205738694-107645027.png
+[2026-02-27 20:52:18] UI_INTERACTION - Image selected for preview: 1772205738694-107645027.png
+[2026-02-27 20:52:20] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 20:52:37] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 20:53:08] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 20:53:08] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:53:14] IMAGE_UPLOAD - Image uploaded: 1772205794306-9871_9_2_2025_17_33_26_2_GARBAGE_SIKKANDHARCHAVADI__02.jpg
+[2026-02-27 20:53:14] UI_INTERACTION - Image selected for preview: 1772205794306-9871_9_2_2025_17_33_26_2_GARBAGE_SIKKANDHARCHAVADI__02.jpg
+[2026-02-27 20:53:15] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 20:53:20] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 20:56:12] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 20:56:12] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:56:12] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 20:56:12] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 20:56:18] IMAGE_UPLOAD - Image uploaded: 1772205978452-107645027.png
+[2026-02-27 20:56:18] UI_INTERACTION - Image selected for preview: 1772205978452-107645027.png
+[2026-02-27 20:56:19] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 20:56:51] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 21:03:51] CAMERA_DEVICE_SELECTED - Camera selected: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 21:03:54] CAMERA_START_SUCCESS - Live camera feed started using: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 21:03:54] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 21:04:13] APP_START - Application started
+[2026-02-27 21:04:13] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 21:04:14] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 21:04:19] CAMERA_START_SUCCESS - Live camera feed started using: vivo Y58 5G (Windows Virtual Camera)
+[2026-02-27 21:04:19] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 21:04:31] FRAME_CAPTURED - Frame captured and saved: capture-1772206471070.png
+[2026-02-27 21:04:31] UI_INTERACTION - Image selected for preview: capture-1772206471070.png
+[2026-02-27 21:04:31] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 21:04:32] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 21:04:40] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 21:05:09] FRAME_CAPTURED - Frame captured and saved: capture-1772206509916.png
+[2026-02-27 21:05:09] UI_INTERACTION - Image selected for preview: capture-1772206509916.png
+[2026-02-27 21:05:09] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 21:05:12] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 21:05:15] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 21:05:29] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 21:05:29] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 21:05:34] IMAGE_UPLOAD - Image uploaded: 1772206534526-107645027.png
+[2026-02-27 21:05:34] UI_INTERACTION - Image selected for preview: 1772206534526-107645027.png
+[2026-02-27 21:05:35] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 21:05:46] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 21:13:03] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 21:13:03] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 21:13:14] IMAGE_UPLOAD - Image uploaded: 1772206994298-107645027.png
+[2026-02-27 21:13:14] UI_INTERACTION - Image selected for preview: 1772206994298-107645027.png
+[2026-02-27 21:13:15] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 21:13:27] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 21:26:07] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 21:26:07] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 21:26:26] CAMERA_DEVICE_SELECTED - Camera selected: USB2.0 HD UVC WebCam (3277:0036)
+[2026-02-27 21:26:30] CAMERA_DEVICE_SELECTED - Camera selected: vivo Y58 5G (Windows Virtual Camera)
+[2026-02-27 21:26:32] CAMERA_START_SUCCESS - Live camera feed started using: vivo Y58 5G (Windows Virtual Camera)
+[2026-02-27 21:26:32] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 21:27:24] FRAME_CAPTURED - Frame captured and saved: capture-1772207844449.png
+[2026-02-27 21:27:24] UI_INTERACTION - Image selected for preview: capture-1772207844449.png
+[2026-02-27 21:27:24] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 21:27:28] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 21:27:33] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 21:27:55] FRAME_CAPTURED - Frame captured and saved: capture-1772207875753.png
+[2026-02-27 21:27:55] UI_INTERACTION - Image selected for preview: capture-1772207875753.png
+[2026-02-27 21:27:55] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 21:27:59] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 21:28:06] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 21:29:10] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 21:29:35] FRAME_CAPTURED - Frame captured and saved: capture-1772207975979.png
+[2026-02-27 21:29:35] UI_INTERACTION - Image selected for preview: capture-1772207975979.png
+[2026-02-27 21:29:36] CAMERA_FRAME_CAPTURED - Captured frame from live camera feed
+[2026-02-27 21:29:41] AI_TEST_REQUEST_SENT - Sent frame to backend for AI detection
+[2026-02-27 21:29:49] BACKEND_RESPONSE_RECEIVED - Successfully received AI detection JSON
+[2026-02-27 21:30:59] PAGE_LOAD - Dashboard loaded successfully
+[2026-02-27 21:30:59] CAMERA_DEVICES_DETECTED - Found 2 camera(s)
+[2026-02-27 21:40:52] LIVE_MONITORING_STARTED - Surveillance camera feed initiated
+[2026-02-27 21:42:04] LIVE_MONITORING_STARTED - Surveillance camera feed initiated
+[2026-02-27 21:45:21] LIVE_MONITORING_STARTED - Surveillance camera feed initiated
+[2026-02-27 21:51:09] APP_START - Application started
+[2026-02-27 21:51:19] LIVE_MONITORING_STARTED - Surveillance pipeline initialized
+[2026-02-27 21:51:30] LIVE_MONITORING_STARTED - Surveillance pipeline initialized
+[2026-02-27 21:51:39] SCENE_CHANGE_DETECTED - Change score: 12.4%
+[2026-02-27 21:51:39] AI_REQUEST_SENT - Mode: AUTO
+[2026-02-27 21:51:43] AI_RESPONSE_RECEIVED - Result: Invalid Scene
+[2026-02-27 21:51:54] SCENE_CHANGE_DETECTED - Change score: 14.0%
+[2026-02-27 21:51:54] AI_REQUEST_SENT - Mode: AUTO
+[2026-02-27 21:51:59] AI_RESPONSE_RECEIVED - Result: Invalid Scene
+[2026-02-27 21:52:09] SCENE_CHANGE_DETECTED - Change score: 16.9%
+[2026-02-27 21:52:09] AI_REQUEST_SENT - Mode: AUTO
+[2026-02-27 21:52:22] AI_RESPONSE_RECEIVED - Result: Invalid Scene
+[2026-02-27 21:52:33] SCENE_CHANGE_DETECTED - Change score: 15.1%
+[2026-02-27 21:52:33] AI_REQUEST_SENT - Mode: AUTO
+[2026-02-27 21:52:37] AI_RESPONSE_RECEIVED - Result: Invalid Scene
+[2026-02-27 21:52:45] LIVE_MONITORING_STARTED - Surveillance pipeline initialized
+[2026-02-27 21:53:20] LIVE_MONITORING_STARTED - Surveillance pipeline initialized
+[2026-02-27 21:53:30] LIVE_MONITORING_STARTED - Surveillance pipeline initialized
+[2026-02-27 21:53:36] SCENE_CHANGE_DETECTED - Change score: 16.4%
+[2026-02-27 21:53:36] AI_REQUEST_SENT - Mode: AUTO
+[2026-02-27 21:53:40] AI_RESPONSE_RECEIVED - Result: Moderately Dirty
+[2026-02-27 22:18:34] APP_START - Application started
+[2026-02-27 22:18:47] LIVE_MONITORING_STARTED - Surveillance pipeline initialized
+[2026-02-27 22:19:52] LIVE_MONITORING_STARTED - Surveillance pipeline initialized
+[2026-02-27 22:19:58] SCENE_CHANGE_DETECTED - Change score: 14.4%
+[2026-02-27 22:19:58] AI_REQUEST_SENT - Mode: AUTO
+[2026-02-27 22:20:04] AI_RESPONSE_RECEIVED - Result: Invalid Scene
+[2026-02-27 22:20:27] LIVE_MONITORING_STARTED - Surveillance pipeline initialized
+[2026-02-27 22:24:12] SCENE_CHANGE_DETECTED - Change score: 26.2%
+[2026-02-27 22:24:12] AI_REQUEST_SENT - Mode: AUTO
+[2026-02-27 22:24:17] AI_RESPONSE_RECEIVED - Result: Invalid Scene
+[2026-02-27 22:25:18] SCENE_CHANGE_DETECTED - Change score: 24.5%
+[2026-02-27 22:25:18] AI_REQUEST_SENT - Mode: AUTO
+[2026-02-27 22:25:22] AI_RESPONSE_RECEIVED - Result: Invalid Scene
+[2026-02-27 22:25:30] SCENE_CHANGE_DETECTED - Change score: 12.0%
+[2026-02-27 22:25:30] AI_REQUEST_SENT - Mode: AUTO
+[2026-02-27 22:25:34] AI_RESPONSE_RECEIVED - Result: Invalid Scene
+[2026-02-27 22:26:31] SCENE_CHANGE_DETECTED - Change score: 20.8%
+[2026-02-27 22:26:31] AI_REQUEST_SENT - Mode: AUTO
+[2026-02-27 22:26:34] AI_RESPONSE_RECEIVED - Result: Invalid Scene
+[2026-02-27 22:26:44] CONTINUOUS_ANALYSIS_STARTED - Timed surveillance pipeline initiated
+[2026-02-27 22:26:48] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:26:48] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:26:52] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:27:00] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:27:00] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:27:05] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:27:12] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:27:12] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:27:16] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:27:24] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:27:24] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:27:28] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:27:36] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:27:36] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:27:40] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:27:48] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:27:48] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:27:52] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:28:00] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:28:00] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:28:04] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:28:12] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:28:12] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:28:16] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:28:24] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:28:24] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:28:28] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:28:36] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:28:36] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:28:40] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:28:48] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:28:48] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:28:52] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:29:00] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:29:00] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:29:07] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:29:16] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:29:16] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:29:21] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:29:28] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:29:28] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:29:33] AI_RESPONSE_UPDATED - Scene Analysis: Moderately Dirty
+[2026-02-27 22:29:40] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:29:40] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:29:44] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:29:52] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:29:52] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:29:56] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:30:04] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:30:04] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:30:08] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:30:16] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:30:16] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:30:20] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:30:28] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:30:28] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:30:33] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:30:40] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:30:40] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:30:44] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:30:52] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:30:52] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:30:56] AI_RESPONSE_UPDATED - Scene Analysis: Moderately Dirty
+[2026-02-27 22:31:04] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:31:04] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:31:09] AI_RESPONSE_UPDATED - Scene Analysis: Moderately Dirty
+[2026-02-27 22:31:16] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:31:16] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:31:21] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:31:28] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:31:28] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:31:32] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:31:40] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:31:40] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:31:44] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:31:52] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:31:52] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:31:56] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:32:04] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:32:04] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:32:08] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:32:16] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:32:16] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:32:19] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:32:28] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:32:28] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:32:32] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:32:40] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:32:40] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:32:44] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:32:52] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:32:52] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:32:56] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:33:04] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:33:04] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:33:08] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:33:16] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:33:16] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:33:20] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:33:28] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:33:28] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:33:38] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:33:48] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:33:48] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:33:52] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:34:00] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:34:00] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:34:05] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:34:06] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 22:36:10] CONTINUOUS_ANALYSIS_STARTED - Timed surveillance pipeline initiated
+[2026-02-27 22:36:14] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:36:14] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:36:18] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:36:26] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:36:26] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:36:31] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:36:38] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:36:38] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:36:43] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:36:50] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:36:50] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:36:55] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:37:02] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:37:02] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:37:07] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:37:14] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:37:14] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:37:19] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:37:26] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:37:26] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:37:31] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:37:38] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:37:38] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:37:43] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:37:50] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:37:50] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:38:07] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:38:14] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:38:14] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:38:18] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:38:26] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:38:26] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:38:31] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:38:38] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:38:38] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:38:44] AI_RESPONSE_UPDATED - Scene Analysis: Moderately Dirty
+[2026-02-27 22:38:50] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:38:50] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:38:55] AI_RESPONSE_UPDATED - Scene Analysis: Dirty Area
+[2026-02-27 22:39:02] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:39:02] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:39:07] AI_RESPONSE_UPDATED - Scene Analysis: Moderately Dirty
+[2026-02-27 22:39:14] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:39:14] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:39:19] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:39:26] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:39:26] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:39:31] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:39:36] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 22:41:21] CONTINUOUS_ANALYSIS_STARTED - Timed surveillance pipeline initiated
+[2026-02-27 22:41:25] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:41:25] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:41:29] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:41:35] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 22:41:41] CONTINUOUS_ANALYSIS_STARTED - Timed surveillance pipeline initiated
+[2026-02-27 22:41:57] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 22:41:57] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 22:42:01] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 22:42:05] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 22:52:07] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 22:53:29] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 22:53:57] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 22:56:56] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 23:01:45] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 23:08:15] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 23:09:38] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 23:09:54] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 23:12:29] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:12:30] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:12:39] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:12:45] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:12:46] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:12:52] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:13:01] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:13:02] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:13:08] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:13:17] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:13:18] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:13:24] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:13:34] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:13:35] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:13:41] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:13:50] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:13:51] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:13:58] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:14:06] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:14:07] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:14:11] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:14:18] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:14:19] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:14:24] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:14:34] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:14:35] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:14:41] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:14:50] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:14:51] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:14:55] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:15:02] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:15:03] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:15:09] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:15:17] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 23:15:24] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:15:24] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:15:30] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:15:40] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:15:40] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:15:45] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:15:52] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:15:52] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:15:56] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:16:04] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:16:04] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:16:08] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:16:16] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:16:16] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:16:20] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:16:27] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 23:16:33] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:16:33] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:16:38] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:16:45] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:16:45] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:16:49] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:16:56] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 23:17:02] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:17:02] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:17:07] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:17:15] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:17:15] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:17:19] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:17:27] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:17:27] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:17:31] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:17:35] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 23:17:41] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:17:41] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:17:44] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:20:23] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:20:23] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:20:32] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:20:39] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:20:39] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:20:43] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:20:51] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:20:51] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:20:56] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:21:03] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:21:03] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:21:07] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:21:15] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:21:15] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:21:19] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:21:27] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:21:27] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:21:31] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:21:39] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:21:39] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:21:46] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:21:55] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:21:55] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:22:02] ANALYSIS_LOOP_STOPPED - Surveillance pipeline manually terminated
+[2026-02-27 23:22:04] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:23:05] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:23:05] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:23:09] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:23:17] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:23:17] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:23:21] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:23:29] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:23:29] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:23:33] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:23:42] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:23:42] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:23:46] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:23:54] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:23:54] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:23:57] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:24:06] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:24:07] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:24:11] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:24:18] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:24:19] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:24:22] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:24:30] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:24:31] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:24:35] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:24:42] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:24:43] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:24:47] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:24:54] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:24:55] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:24:59] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:25:06] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:25:07] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:25:11] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:25:18] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:25:19] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:25:26] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:25:34] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:25:35] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:25:40] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:25:46] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:25:47] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:25:52] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:25:58] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:25:59] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:26:03] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:26:10] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:26:11] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:26:15] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:26:22] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:26:23] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:26:27] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:26:34] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:26:35] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:26:40] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:26:50] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:26:51] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:26:56] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:27:06] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:27:07] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:27:12] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:27:22] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:27:23] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:27:28] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:27:34] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:27:35] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:27:39] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:27:46] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:27:47] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:27:57] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:28:06] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:28:07] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:28:10] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:28:18] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:28:19] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:28:31] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:28:38] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:28:39] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:28:43] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:28:50] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:28:51] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:28:54] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:29:02] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:29:03] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:29:08] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:29:18] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:29:19] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:29:23] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:29:30] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:29:31] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:29:35] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:29:42] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:29:43] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:29:47] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:29:54] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:29:55] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:29:59] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:30:06] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:30:07] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:30:11] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:30:18] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:30:19] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:30:22] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:30:30] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:30:32] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:30:40] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:30:46] FRAME_CAPTURED_FOR_ANALYSIS - Auto-capturing frame for periodic check
+[2026-02-27 23:30:47] AI_PERIODIC_REQUEST_SENT - Triggered via periodic loop
+[2026-02-27 23:30:53] AI_RESPONSE_UPDATED - Scene Analysis: Invalid Scene
+[2026-02-27 23:31:08] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-27 23:31:44] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:31:59] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:32:11] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:32:24] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:32:38] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:32:38] CAMERA_ADDED - New surveillance card created with ID 2
+[2026-02-27 23:32:53] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:33:05] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:33:09] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:33:19] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:33:23] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:33:33] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-27 23:33:38] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:33:45] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:33:50] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:33:58] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:34:03] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:34:14] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:34:17] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:34:25] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:34:32] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:34:40] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:34:44] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:34:53] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:34:58] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:35:07] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:35:11] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:35:20] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:35:25] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:35:35] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:35:38] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:35:48] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:35:52] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:36:02] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:36:05] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:36:15] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:36:18] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:36:29] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:36:32] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:36:35] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-27 23:37:00] CAMERA_ADDED - New surveillance card created with ID 2
+[2026-02-27 23:37:06] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:37:19] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:37:26] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:37:33] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:37:40] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:37:46] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:37:52] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:38:00] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:38:06] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:38:13] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:38:20] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:38:26] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:38:35] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:38:40] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:38:47] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:38:53] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:39:06] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:39:07] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:39:19] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:39:23] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:39:31] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:39:36] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-27 23:39:46] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:39:48] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:39:59] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:40:01] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:40:14] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:40:16] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:40:26] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:40:30] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:40:39] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:40:42] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:40:53] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:40:55] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:41:06] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:41:09] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:41:20] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:41:23] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:41:33] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:41:37] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:41:48] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:41:50] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-27 23:42:00] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-27 23:42:04] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:18:50] APP_START - Application started
+[2026-02-28 01:25:30] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 01:31:47] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 01:31:51] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 01:31:54] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 01:31:59] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 01:32:36] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 1, Nudge: வீட்டை சுத்தமாக வைத்துக்கொள்வது ஆரோக்கியமான வாழ்க்கைக்கு அவசியம்.
+[2026-02-28 01:32:36] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:32:48] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 1, Nudge: வீட்டைச் சுத்தமாக வைத்துக்கொள்வது ஆரோக்கியமான வாழ்க்கைக்கு அவசியம்.
+[2026-02-28 01:32:48] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:33:03] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 1, Nudge: வீட்டு சூழலை சுத்தமாக வைத்துக்கொள்வது முக்கியம்.
+[2026-02-28 01:33:03] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:33:16] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 1, Nudge: Not applicable since this is an indoor shot.
+[2026-02-28 01:33:16] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:33:18] CAMERA_ADDED - New surveillance card created with ID 2
+[2026-02-28 01:33:28] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 1, Nudge: This scene is not related to public cleanliness.
+[2026-02-28 01:33:28] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:33:40] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 2, Nudge: வீட்டு சூழலை சுத்தமாக வைத்துக்கொள்வது அவசியம்.
+[2026-02-28 01:33:40] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:33:42] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 1, Nudge: வீட்டைச் சுத்தமாக வைத்துக்கொள்வது ஆரோக்கியத்திற்கு நல்லது.
+[2026-02-28 01:33:42] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:33:54] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 2, Nudge: வீட்டை சுத்தமாக வைத்திருங்கள்.
+[2026-02-28 01:33:54] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:33:55] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 1, Nudge: வீட்டை சுத்தமாக வைத்துக்கொள்வது நல்லது.
+[2026-02-28 01:33:55] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:34:06] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 2, Nudge: வீட்டை சுத்தமாக வைத்துக்கொள்வது முக்கியம்.
+[2026-02-28 01:34:06] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:34:09] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 1, Nudge: வீட்டை சுத்தமாக வைத்துக்கொள்வது முக்கியம்.
+[2026-02-28 01:34:09] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:34:20] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 2, Nudge: வீட்டை சுத்தமாக வைத்துக்கொள்வோம்
+[2026-02-28 01:34:20] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:34:23] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 1, Nudge: வீட்டை சுத்தமாக வைத்திருப்போம்.
+[2026-02-28 01:34:23] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:34:34] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 2, Nudge: வீட்டை சுத்தமாக வைத்துக் கொள்ளுங்கள். (Keep your home clean.)
+[2026-02-28 01:34:34] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:34:36] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 1, Nudge: வீட்டை சுத்தம் செய்து சுகாதாரமாக வைத்திருங்கள்.
+[2026-02-28 01:34:36] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:34:48] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 2, Nudge: This is not a street scene. Let's keep our streets clean! (இது தெரு காட்சி அல்ல. எங்கள் தெருக்களை சுத்தமாக வைத்திருப்போம்!)
+[2026-02-28 01:34:48] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:34:50] TAMIL_NUDGE_SPOKEN - Unit: Surveillance Unit 1, Nudge: சுற்றுப்புறத்தை சுத்தமாக வைத்திருங்கள்.
+[2026-02-28 01:34:50] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:44:12] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 01:44:14] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 01:44:36] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 01:44:36] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:44:37] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:44:44] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:44:51] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 01:44:51] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:44:51] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:44:59] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:45:05] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 01:45:05] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:45:05] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:45:13] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:45:18] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 01:45:18] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:45:18] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:45:24] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:45:59] CAMERA_ADDED - New surveillance card created with ID 2
+[2026-02-28 01:46:00] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 01:46:00] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:46:00] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:46:06] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:46:14] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 01:46:14] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:46:14] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:46:19] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:46:22] TTS_QUEUE_ADDED - From: Surveillance Unit 2, Queue Size: 1
+[2026-02-28 01:46:22] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:46:22] TTS_SPEAKING_STARTED - Surveillance Unit 2
+[2026-02-28 01:46:27] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 01:46:27] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:46:34] TTS_SPEAKING_COMPLETED - Surveillance Unit 2
+[2026-02-28 01:46:34] TTS_QUEUE_ADDED - From: Surveillance Unit 2, Queue Size: 2
+[2026-02-28 01:46:34] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:46:34] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:46:40] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 2
+[2026-02-28 01:46:40] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:46:41] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:46:41] TTS_SPEAKING_STARTED - Surveillance Unit 2
+[2026-02-28 01:46:47] TTS_SPEAKING_COMPLETED - Surveillance Unit 2
+[2026-02-28 01:46:47] TTS_QUEUE_ADDED - From: Surveillance Unit 2, Queue Size: 2
+[2026-02-28 01:46:47] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:46:48] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:46:54] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 2
+[2026-02-28 01:46:54] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:46:56] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:46:56] TTS_SPEAKING_STARTED - Surveillance Unit 2
+[2026-02-28 01:47:01] TTS_QUEUE_ADDED - From: Surveillance Unit 2, Queue Size: 2
+[2026-02-28 01:47:01] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:47:04] TTS_SPEAKING_COMPLETED - Surveillance Unit 2
+[2026-02-28 01:47:04] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:47:07] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 2
+[2026-02-28 01:47:07] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:47:15] TTS_QUEUE_ADDED - From: Surveillance Unit 2, Queue Size: 3
+[2026-02-28 01:47:15] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:47:16] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:47:16] TTS_SPEAKING_STARTED - Surveillance Unit 2
+[2026-02-28 01:47:20] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 3
+[2026-02-28 01:47:20] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:47:26] TTS_SPEAKING_COMPLETED - Surveillance Unit 2
+[2026-02-28 01:47:27] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:47:30] TTS_QUEUE_ADDED - From: Surveillance Unit 2, Queue Size: 3
+[2026-02-28 01:47:30] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:47:32] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:47:33] TTS_SPEAKING_STARTED - Surveillance Unit 2
+[2026-02-28 01:47:34] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 3
+[2026-02-28 01:47:34] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:47:40] TTS_SPEAKING_COMPLETED - Surveillance Unit 2
+[2026-02-28 01:47:40] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:47:42] TTS_QUEUE_ADDED - From: Surveillance Unit 2, Queue Size: 3
+[2026-02-28 01:47:42] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:47:46] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:47:47] TTS_SPEAKING_STARTED - Surveillance Unit 2
+[2026-02-28 01:47:48] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 3
+[2026-02-28 01:47:48] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:47:54] TTS_SPEAKING_COMPLETED - Surveillance Unit 2
+[2026-02-28 01:47:54] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:47:55] TTS_QUEUE_ADDED - From: Surveillance Unit 2, Queue Size: 3
+[2026-02-28 01:47:55] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:48:01] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 4
+[2026-02-28 01:48:01] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:48:03] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:48:03] TTS_SPEAKING_STARTED - Surveillance Unit 2
+[2026-02-28 01:48:08] TTS_SPEAKING_COMPLETED - Surveillance Unit 2
+[2026-02-28 01:48:09] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:48:11] TTS_QUEUE_ADDED - From: Surveillance Unit 2, Queue Size: 3
+[2026-02-28 01:48:11] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 01:48:16] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:48:17] TTS_SPEAKING_STARTED - Surveillance Unit 2
+[2026-02-28 01:48:24] TTS_SPEAKING_COMPLETED - Surveillance Unit 2
+[2026-02-28 01:48:25] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:48:32] VOICE_ALERT_MUTED - Camera 1 Mute state: true
+[2026-02-28 01:48:33] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:48:34] TTS_SPEAKING_STARTED - Surveillance Unit 2
+[2026-02-28 01:48:35] VOICE_ALERT_MUTED - Camera 2 Mute state: true
+[2026-02-28 01:48:38] VOICE_ALERT_MUTED - Camera 1 Mute state: false
+[2026-02-28 01:48:40] TTS_SPEAKING_COMPLETED - Surveillance Unit 2
+[2026-02-28 01:48:45] VOICE_ALERT_MUTED - Camera 2 Mute state: false
+[2026-02-28 01:51:48] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 01:51:52] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 01:52:16] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:52:28] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:52:43] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:52:56] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:53:09] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:53:24] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:53:37] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:53:51] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:54:43] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:55:43] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:56:27] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:56:40] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:56:54] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:57:08] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 01:57:08] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 01:57:08] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:57:15] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:57:21] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:57:35] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 01:57:35] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 01:57:35] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:57:48] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 01:57:48] AI_UNIT_RESPONSE - Cam 1: Very Dirty
+[2026-02-28 01:57:49] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:57:50] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 01:58:00] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 01:58:01] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:58:17] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:58:27] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:58:42] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:58:54] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:59:08] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:59:23] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:59:35] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 01:59:51] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:00:03] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:00:17] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:00:31] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:00:45] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:00:58] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:01:10] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:01:25] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:01:38] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:01:58] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:02:19] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:02:33] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:02:44] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:03:04] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:03:19] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:03:30] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:03:43] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:03:58] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:04:12] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:04:25] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:04:37] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:04:52] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:04:52] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 02:04:52] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:05:03] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:05:06] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:05:18] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:05:32] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:05:46] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:06:01] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:06:43] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:07:44] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:07:55] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:08:08] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:08:27] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:08:41] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:08:55] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:09:10] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:09:43] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:10:48] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:11:43] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:12:44] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:13:43] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:14:11] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:14:12] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 02:14:38] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 02:15:07] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:15:07] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 02:15:08] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:15:20] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:15:22] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:15:22] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 02:15:22] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:15:31] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:15:34] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:15:49] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:16:00] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:16:13] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:16:24] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:16:36] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:16:52] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:17:04] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:17:18] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:17:31] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:17:42] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:18:42] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:19:44] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:20:45] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:22:42] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:23:49] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 02:25:26] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 02:25:57] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:25:57] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 02:25:57] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:26:05] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:26:09] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:26:09] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 02:26:10] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:26:19] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:26:22] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:26:22] AI_UNIT_RESPONSE - Cam 1: Moderately Dirty
+[2026-02-28 02:26:22] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:26:31] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:26:36] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:26:49] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:26:49] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 02:26:49] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:26:58] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:27:03] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:27:03] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 02:27:03] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:27:14] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:29:56] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:30:12] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:30:12] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 02:30:12] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:30:22] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:30:25] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:30:25] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 02:30:25] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:30:38] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:30:38] AI_UNIT_RESPONSE - Cam 1: Very Dirty
+[2026-02-28 02:30:39] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:30:40] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:30:50] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:30:52] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:30:52] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 02:30:52] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:31:02] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:31:06] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:31:06] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 02:31:07] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:31:12] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:31:20] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:31:31] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:31:44] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:32:00] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 02:32:13] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 02:32:24] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:32:38] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:32:55] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 02:33:09] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:33:24] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:33:36] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:33:51] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 02:34:05] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:34:19] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:34:31] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:34:46] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:35:00] CAMERA_ADDED - New surveillance card created with ID 2
+[2026-02-28 02:35:21] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 02:35:48] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:35:57] TTS_QUEUE_ADDED - From: Surveillance Unit 2, Queue Size: 1
+[2026-02-28 02:35:57] AI_UNIT_RESPONSE - Cam 2: Dirty Area
+[2026-02-28 02:35:57] TTS_SPEAKING_STARTED - Surveillance Unit 2
+[2026-02-28 02:36:01] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:36:10] TTS_SPEAKING_COMPLETED - Surveillance Unit 2
+[2026-02-28 02:36:11] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 02:36:18] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 02:36:18] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 02:36:18] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 02:36:24] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 02:36:28] CAMERA_ADDED - New surveillance card created with ID 3
+[2026-02-28 02:36:29] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:36:33] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 02:36:38] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 02:36:43] AI_UNIT_RESPONSE - Cam 3: Invalid Scene
+[2026-02-28 02:36:43] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:36:50] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 02:36:55] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:36:58] AI_UNIT_RESPONSE - Cam 3: Invalid Scene
+[2026-02-28 02:37:03] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 02:37:08] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:37:11] AI_UNIT_RESPONSE - Cam 3: Invalid Scene
+[2026-02-28 02:37:17] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 02:37:23] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:37:24] AI_UNIT_RESPONSE - Cam 3: Invalid Scene
+[2026-02-28 02:37:32] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 02:37:37] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:37:39] TTS_QUEUE_ADDED - From: Surveillance Unit 3, Queue Size: 1
+[2026-02-28 02:37:39] AI_UNIT_RESPONSE - Cam 3: Dirty Area
+[2026-02-28 02:37:40] TTS_SPEAKING_STARTED - Surveillance Unit 3
+[2026-02-28 02:37:44] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 02:37:50] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:37:50] TTS_SPEAKING_COMPLETED - Surveillance Unit 3
+[2026-02-28 02:37:52] AI_UNIT_RESPONSE - Cam 3: Invalid Scene
+[2026-02-28 02:37:58] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 02:38:02] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:38:04] AI_UNIT_RESPONSE - Cam 3: Invalid Scene
+[2026-02-28 02:38:11] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 02:38:15] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 02:38:18] AI_UNIT_RESPONSE - Cam 3: Invalid Scene
+[2026-02-28 02:38:21] APP_CLOSE - Application closed
+[2026-02-28 08:14:41] APP_START - Application started
+[2026-02-28 08:14:42] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 08:19:51] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 08:22:30] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:22:41] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:22:59] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:23:14] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:23:26] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:23:40] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:23:52] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:24:06] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:24:20] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:24:33] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:24:33] CAMERA_ADDED - New surveillance card created with ID 2
+[2026-02-28 08:24:47] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:25:00] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:25:13] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:25:15] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:25:25] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:25:27] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:25:40] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:25:40] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:25:53] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:25:55] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:26:06] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:26:08] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:26:20] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:26:23] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:26:35] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:26:36] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 08:26:36] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 08:26:36] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 08:26:47] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 08:26:48] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:26:50] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 08:26:50] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 08:26:50] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 08:26:59] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 08:27:00] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:27:03] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:27:14] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:27:15] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:27:28] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:27:30] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 08:27:30] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 08:27:30] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 08:27:37] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 08:27:41] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:27:43] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 08:27:55] AI_UNIT_RESPONSE - Cam 2: Invalid Scene
+[2026-02-28 08:28:09] IMAGE_UPLOAD - Image uploaded: 1772247489147-107645027.png
+[2026-02-28 08:28:34] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 1
+[2026-02-28 08:28:34] TTS_SPEAKING_STARTED - Manual Check
+[2026-02-28 08:28:36] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 1
+[2026-02-28 08:28:41] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 2
+[2026-02-28 08:28:42] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 3
+[2026-02-28 08:28:44] TTS_SPEAKING_COMPLETED - Manual Check
+[2026-02-28 08:28:44] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 3
+[2026-02-28 08:28:45] TTS_SPEAKING_STARTED - Manual Check
+[2026-02-28 08:28:45] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 4
+[2026-02-28 08:28:55] TTS_SPEAKING_COMPLETED - Manual Check
+[2026-02-28 08:28:56] TTS_SPEAKING_STARTED - Manual Check
+[2026-02-28 08:29:01] TTS_SPEAKING_COMPLETED - Manual Check
+[2026-02-28 08:29:01] TTS_SPEAKING_STARTED - Manual Check
+[2026-02-28 08:29:06] TTS_SPEAKING_COMPLETED - Manual Check
+[2026-02-28 08:29:07] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 3
+[2026-02-28 08:29:07] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 3
+[2026-02-28 08:29:07] TTS_SPEAKING_STARTED - Manual Check
+[2026-02-28 08:29:09] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 4
+[2026-02-28 08:29:10] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 5
+[2026-02-28 08:29:14] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 6
+[2026-02-28 08:29:14] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 7
+[2026-02-28 08:29:17] TTS_SPEAKING_COMPLETED - Manual Check
+[2026-02-28 08:29:18] TTS_SPEAKING_STARTED - Manual Check
+[2026-02-28 08:29:27] TTS_SPEAKING_COMPLETED - Manual Check
+[2026-02-28 08:29:27] TTS_SPEAKING_STARTED - Manual Check
+[2026-02-28 08:29:32] TTS_SPEAKING_COMPLETED - Manual Check
+[2026-02-28 08:29:33] TTS_SPEAKING_STARTED - Manual Check
+[2026-02-28 08:29:38] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 5
+[2026-02-28 08:29:38] TTS_SPEAKING_COMPLETED - Manual Check
+[2026-02-28 08:29:38] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 6
+[2026-02-28 08:29:39] TTS_SPEAKING_STARTED - Manual Check
+[2026-02-28 08:29:44] TTS_SPEAKING_COMPLETED - Manual Check
+[2026-02-28 08:29:44] TTS_SPEAKING_STARTED - Manual Check
+[2026-02-28 08:29:48] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 5
+[2026-02-28 08:29:48] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 6
+[2026-02-28 08:29:48] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 7
+[2026-02-28 08:29:48] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 8
+[2026-02-28 08:29:49] TTS_SPEAKING_COMPLETED - Manual Check
+[2026-02-28 08:29:50] TTS_SPEAKING_STARTED - Manual Check
+[2026-02-28 08:29:54] APP_CLOSE - Application closed
+[2026-02-28 08:30:34] APP_START - Application started
+[2026-02-28 08:30:34] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 08:41:23] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 08:41:52] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 08:48:15] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 08:48:32] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 09:10:44] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 09:11:40] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:11:54] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:12:05] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:12:22] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 09:12:22] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 09:12:23] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 09:12:34] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 09:12:35] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 09:12:35] AI_UNIT_RESPONSE - Cam 1: Very Dirty
+[2026-02-28 09:12:35] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 09:12:46] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 09:12:46] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:13:00] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:13:13] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 09:13:13] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 09:13:13] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 09:13:19] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 09:13:26] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:20:34] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:20:50] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:21:08] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 09:21:08] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 09:21:09] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 09:21:18] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 09:21:26] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:21:36] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:21:51] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:22:04] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 09:22:22] APP_CLOSE - Application closed
+[2026-02-28 12:40:38] APP_START - Application started
+[2026-02-28 12:40:38] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 12:43:26] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 12:43:44] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 12:55:10] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
