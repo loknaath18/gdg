@@ -1374,3 +1374,82 @@
 [2026-02-28 12:43:26] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
 [2026-02-28 12:43:44] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
 [2026-02-28 12:55:10] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 13:56:59] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 13:57:01] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 14:00:05] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 14:00:06] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 14:01:00] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 14:01:02] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 14:02:29] CAMERA_ADDED - New surveillance card created with ID 2
+[2026-02-28 14:02:39] CAMERA_ADDED - New surveillance card created with ID 3
+[2026-02-28 14:14:59] APP_START - Application started
+[2026-02-28 14:14:59] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 14:35:01] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 14:51:19] APP_START - Application started
+[2026-02-28 14:51:55] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 14:53:39] APP_START - Application started
+[2026-02-28 14:54:41] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 14:55:00] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 14:57:04] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 14:57:04] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 14:57:16] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 14:57:23] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 14:57:44] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 14:57:55] VOICE_ALERT_MUTED - Camera 1 Mute state: true
+[2026-02-28 14:57:56] VOICE_ALERT_MUTED - Camera 1 Mute state: false
+[2026-02-28 14:58:41] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 14:59:35] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 14:59:36] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 14:59:49] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 15:00:33] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 15:00:50] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 15:01:10] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 15:01:25] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-02-28 15:01:45] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 15:01:45] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-02-28 15:01:45] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 15:01:52] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 15:08:15] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-02-28 15:10:30] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-02-28 15:11:23] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 15:11:23] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 15:11:24] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 15:11:29] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 15:11:58] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 15:11:58] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 15:11:59] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 15:12:07] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 15:12:42] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 15:12:42] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 15:12:43] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 15:12:49] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 15:13:15] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-02-28 15:13:15] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 15:13:16] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-02-28 15:13:23] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-02-28 15:13:54] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 15:14:32] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 15:15:07] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 15:15:57] AI_UNIT_RESPONSE - Cam 1: Clean Area
+[2026-02-28 15:16:24] APP_CLOSE - Application closed
+[2026-03-01 13:46:21] APP_START - Application started
+[2026-03-01 13:46:22] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-03-01 13:46:44] IMAGE_UPLOAD - Image uploaded: 1772353004935-107645027.png
+[2026-03-01 13:46:53] TTS_QUEUE_ADDED - From: Manual Check, Queue Size: 1
+[2026-03-01 13:46:54] TTS_SPEAKING_STARTED - Manual Check
+[2026-03-01 13:47:03] TTS_SPEAKING_COMPLETED - Manual Check
+[2026-03-01 13:47:08] CAMERA_ADDED - New surveillance card created with ID 1
+[2026-03-01 13:48:00] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-03-01 13:48:14] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-03-01 13:48:27] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-03-01 13:48:40] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-03-01 13:48:49] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-03-01 13:49:03] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-03-01 13:49:14] TTS_QUEUE_ADDED - From: Surveillance Unit 1, Queue Size: 1
+[2026-03-01 13:49:14] AI_UNIT_RESPONSE - Cam 1: Dirty Area
+[2026-03-01 13:49:15] TTS_SPEAKING_STARTED - Surveillance Unit 1
+[2026-03-01 13:49:25] AI_UNIT_RESPONSE - Cam 1: Invalid Scene
+[2026-03-01 13:49:26] TTS_SPEAKING_COMPLETED - Surveillance Unit 1
+[2026-03-01 13:57:47] APP_START - Application started
+[2026-03-01 13:57:47] TTS_INITIALIZED - Loaded voice: Microsoft Valluvar - Tamil (India)
+[2026-03-01 13:58:26] APP_CLOSE - Application closed

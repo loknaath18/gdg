@@ -15,10 +15,11 @@
         <!-- Sidebar Navigation -->
         <aside class="sidebar">
             <div class="brand">
-                <h1>Street Coach AI</h1>
-                <p
-                    style="font-size: 0.7rem; color: var(--text-muted); margin-top: 5px; text-transform: uppercase; letter-spacing: 1px;">
-                    Surveillance Mode</p>
+                <div class="brand-header">
+                    <img src="assets/logo.png" alt="Logo" class="brand-logo">
+                    <h1>Street Coach AI</h1>
+                </div>
+                <p>Surveillance Mode</p>
             </div>
             <nav class="nav-menu">
                 <a href="#" class="nav-item active" data-tab="live-tab">Live Monitoring</a>
@@ -28,11 +29,7 @@
                 <a href="#" class="nav-item" data-tab="logs-tab">System Logs</a>
             </nav>
 
-            <!-- Last Analyzed Frame Preview -->
-            <div class="last-analysis-preview" style="margin: 20px; margin-top: auto;">
-                <p style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 8px;">Last Scanned Scene</p>
-                <img id="last-frame-thumb" src="assets/placeholder.jpg" class="preview-thumb" alt="Last Frame">
-            </div>
+
         </aside>
 
         <main class="main-content">

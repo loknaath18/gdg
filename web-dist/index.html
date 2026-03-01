@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Street Behavior Coach AI - Surveillance Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-gOq1q7Y3.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="brand">
+                <div class="brand-header">
+                    <img src="./assets/logo-BjyDgt_h.png" alt="Logo" class="brand-logo">
+                    <h1>Street Coach AI</h1>
+                </div>
+                <p>Surveillance Mode</p>
+            </div>
+            <nav class="nav-menu">
+                <a href="#" class="nav-item active" data-tab="live-tab">Live Monitoring</a>
+                <a href="#" class="nav-item" data-tab="capture-tab">Manual Capture</a>
+                <a href="#" class="nav-item" data-tab="upload-tab">Image Upload</a>
+                <a href="#" class="nav-item" data-tab="analytics-tab">Analytics</a>
+                <a href="#" class="nav-item" data-tab="logs-tab">System Logs</a>
+            </nav>
+
+
+        </aside>
+
+        <main class="main-content">
+            <header class="header">
+                <h2>AI Monitoring Control</h2>
+                <div id="monitoring-status" class="status-indicator">
+                    <span class="pulse"></span> 🟢 Monitoring Active
+                </div>
+            </header>
+
+            <div class="dashboard-grid" id="main-dashboard-grid">
+                <!-- Main Center Panel (Dynamic Tabs) -->
+                <div id="main-panel" class="main-panel-column" style="grid-column: 1 / -1;">
+
+                    <!-- Live Monitoring Tab (Default) -->
+                    <section id="live-tab" class="tab-content active">
+                        <div
+                            style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 25px;">
+                            <div>
+                                <h3 style="margin-bottom: 5px;">Multi-Device Surveillance</h3>
+                                <p style="font-size: 0.85rem; color: var(--text-muted);">Monitor and analyze multiple
+                                    street zones simultaneously.</p>
+                            </div>
+                            <div style="display: flex; gap: 15px; align-items: center;">
+                                <button id="add-camera-btn" class="btn primary-btn"
+                                    style="margin: 0; background: var(--accent);">
+                                    <span>➕</span> Add Camera Analysis
+                                </button>
+                                <div style="width: 1px; height: 24px; background: var(--border-color);"></div>
+                                <div style="display: flex; align-items: center; gap: 10px; margin-right: 15px;">
+                                    <span style="font-size: 0.8rem; color: var(--text-muted);">🔊 Voice Alerts</span>
+                                    <label class="switch">
+                                        <input type="checkbox" id="voice-ai-toggle" checked>
+                                        <span class="slider"></span>
+                                    </label>
+                                </div>
+                                <div style="display: flex; align-items: center; gap: 10px;">
+                                    <span style="font-size: 0.8rem; color: var(--text-muted);">Global Auto-AI</span>
+                                    <label class="switch">
+                                        <input type="checkbox" id="auto-ai-toggle" checked>
+                                        <span class="slider"></span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Camera Cards Container -->
+                        <div id="camera-container" class="camera-container-grid">
+                            <!-- Placeholder when no cameras are added -->
+                            <div class="no-cameras-placeholder" id="no-cameras-msg">
+                                <i>📹</i>
+                                <h3>Control Room Empty</h3>
+                                <p>Click "Add Camera Analysis" to begin monitoring street locations.</p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Manual Capture Tab -->
+                    <section id="capture-tab" class="tab-content">
+                        <div class="card">
+                            <h3>Manual Frame Capture</h3>
+                            <p style="color: var(--text-muted); margin-bottom: 20px; font-size: 0.9rem;">Manually
+                                capture and test specific frames for AI verification.</p>
+                            <div
+                                style="background: var(--bg-dark); border-radius: 10px; height: 300px; display: flex; align-items: center; justify-content: center; border: 1px dashed var(--border-color);">
+                                <canvas id="manual-canvas"
+                                    style="max-width: 100%; max-height: 100%; border-radius: 8px;"></canvas>
+                                <p id="canvas-placeholder" style="color: var(--text-muted);">No frame captured yet</p>
+                            </div>
+                            <div style="display: flex; gap: 15px; margin-top: 20px;">
+                                <button id="capture-cam-btn" class="btn secondary-btn"
+                                    style="flex: 1; margin: 0;">Capture Now</button>
+                                <button id="process-capture-btn" class="btn primary-btn" style="flex: 1; margin: 0;"
+                                    disabled>Run AI Test</button>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Image Upload Tab -->
+                    <section id="upload-tab" class="tab-content">
+                        <div class="card">
+                            <h3>Upload Street Media</h3>
+                            <div class="upload-area" id="upload-area">
+                                <div id="image-preview-container" class="hidden">
+                                    <img id="image-preview" src="" alt="Preview">
+                                </div>
+                                <div id="upload-prompt" class="upload-prompt-content">
+                                    <i>📂</i>
+                                    <p>Drop file to investigate scene</p>
+                                    <button id="upload-btn" class="btn primary-btn">Select File</button>
+                                </div>
+                            </div>
+                            <button id="process-upload-btn" class="btn secondary-btn" disabled>Verify
+                                Intelligence</button>
+                        </div>
+                    </section>
+
+                    <!-- Analytics Tab -->
+                    <section id="analytics-tab" class="tab-content">
+                        <div class="analytics-header"
+                            style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 25px;">
+                            <div>
+                                <h3 style="margin-bottom: 5px;">Performance Analytics</h3>
+                                <p style="font-size: 0.85rem; color: var(--text-muted);">Real-time metrics from urban
+                                    surveillance logs.</p>
+                            </div>
+                            <button id="refresh-analytics-btn" class="btn secondary-btn"
+                                style="padding: 8px 15px; font-size: 0.8rem;">
+                                🔄 Refresh Report
+                            </button>
+                        </div>
+
+                        <div class="analytics-row"
+                            style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px; margin-bottom: 20px;">
+                            <!-- Trend Chart -->
+                            <div class="card chart-card">
+                                <h5>Cleanliness Index (Last 24 Hours)</h5>
+                                <div style="height: 300px; position: relative;">
+                                    <canvas id="trendChart"></canvas>
+                                </div>
+                            </div>
+                            <!-- Distribution Chart -->
+                            <div class="card chart-card">
+                                <h5>Status distribution</h5>
+                                <div style="height: 300px; position: relative;">
+                                    <canvas id="distributionChart"></canvas>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="analytics-row">
+                            <!-- Camera Performance Chart -->
+                            <div class="card chart-card">
+                                <h5>Camera-wise Performance (Avg Score)</h5>
+                                <div style="height: 250px; position: relative;">
+                                    <canvas id="cameraChart"></canvas>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Logs Tab -->
+                    <section id="logs-tab" class="tab-content">
+                        <div class="card">
+                            <h3>System Events & Audit Log</h3>
+                            <div class="table-container" style="max-height: 500px;">
+                                <table id="logs-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Timestamp</th>
+                                            <th>Event</th>
+                                            <th>Meta Detail</th>
+                                            <th>Status</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="logs-body"></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+
+                <!-- Results Panel (Visible for Upload/Manual) -->
+                <div id="global-results-panel" class="results-panel-column hidden" style="grid-column: 2 / 3;">
+                    <section class="card results-module" style="position: sticky; top: 0;">
+                        <h3>Intelligence Output</h3>
+                        <div class="result-items">
+                            <div class="result-item">
+                                <span class="label">Cleanliness Status:</span>
+                                <span class="value waiting" id="res-status">System Standby</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="label">Compliance Score:</span>
+                                <span class="value" id="res-score">--</span>
+                            </div>
+                            <div class="result-item" style="flex-direction: column; align-items: flex-start; gap: 8px;">
+                                <span class="label">Authority Recommendation:</span>
+                                <span class="value" id="res-recommendation"
+                                    style="color: var(--accent); font-weight: 600; text-align: left;">--</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="label">Tamil Nudge:</span>
+                                <span class="value txt-tamil" id="res-nudge">--</span>
+                            </div>
+                            <div class="result-item" style="flex-direction: column; align-items: flex-start; gap: 8px;">
+                                <span class="label">AI Scene Intelligence:</span>
+                                <span class="value" id="res-description"
+                                    style="font-size: 0.85rem; line-height: 1.4; color: var(--text-muted); font-style: italic; text-align: left;">--</span>
+                            </div>
+                        </div>
+
+                        <!-- Mini Debug Console Inside Results -->
+                        <div
+                            style="margin-top: 25px; background: #000; border-radius: 6px; padding: 12px; font-family: monospace; font-size: 0.75rem; color: #10b981; border: 1px solid #333;">
+                            <p
+                                style="color: var(--text-muted); margin-bottom: 5px; font-size: 0.65rem; text-transform: uppercase;">
+                                Real-time Stream Log</p>
+                            <div id="mini-log" style="height: 60px; overflow-y: auto;">
+                                > System Initialized...<br>
+                                > Waiting for camera feed...
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </main>
+    </div>
+    <!-- Camera Card Template -->
+    <template id="camera-card-template">
+        <div class="camera-card">
+            <div class="camera-card-header">
+                <h4 class="cam-title">Camera Unit</h4>
+                <div style="display: flex; gap: 10px; align-items: center;">
+                    <button class="mute-cam-btn" title="Mute/Unmute Unit"
+                        style="background:transparent; border:none; cursor:pointer; color:var(--text-muted); font-size:1rem;">🔊</button>
+                    <button class="remove-cam-btn" title="Remove Camera">✕</button>
+                </div>
+            </div>
+            <div class="camera-card-body">
+                <div class="camera-feed-wrapper">
+                    <!-- Status Badge -->
+                    <div class="monitoring-badge">
+                        <span class="badge-dot dot-offline"></span>
+                        <span class="badge-text">STANDBY</span>
+                    </div>
+                    <!-- Feeds -->
+                    <video class="cam-video hidden" autoplay playsinline></video>
+                    <img class="cam-ip-img hidden" alt="IP Stream">
+                    <!-- Placeholder -->
+                    <div class="video-placeholder"
+                        style="height:100%; display:flex; align-items:center; justify-content:center; background:#111; color:#444;">
+                        <p>No Feed Active</p>
+                    </div>
+                    <!-- Loader -->
+                    <div class="cam-analysis-loader hidden"
+                        style="position:absolute; inset:0; background:rgba(15,23,42,0.8); display:flex; flex-direction:column; align-items:center; justify-content:center; z-index:10;">
+                        <div class="pulse" style="width:30px; height:30px; margin-bottom:10px;"></div>
+                        <p style="font-size:0.75rem; color:var(--primary);">Analyzing...</p>
+                    </div>
+                </div>
+
+                <div class="camera-controls">
+                    <div class="source-select-mini">
+                        <label style="cursor:pointer;"><input type="radio" class="src-webcam" name="src-type-X" checked>
+                            Webcam</label>
+                        <label style="cursor:pointer;"><input type="radio" class="src-ip" name="src-type-X"> IP
+                            Cam</label>
+                    </div>
+
+                    <!-- Webcam Controls -->
+                    <div class="webcam-ctrls" style="display:flex; gap:8px;">
+                        <select class="cam-list-select"
+                            style="flex:1; padding:6px; background:var(--bg-dark); color:var(--text-main); border:1px solid var(--border-color); border-radius:4px; font-size:0.8rem;">
+                            <option value="">Detecting...</option>
+                        </select>
+                        <button class="btn primary-btn start-btn"
+                            style="padding:6px 12px; font-size:0.8rem; margin:0;">Start</button>
+                        <button class="btn danger-btn stop-btn"
+                            style="padding:6px 12px; font-size:0.8rem; margin:0; background:var(--danger);"
+                            disabled>Stop</button>
+                    </div>
+
+                    <!-- IP Controls -->
+                    <div class="ip-ctrls hidden" style="display:flex; gap:8px;">
+                        <input type="text" class="ip-url-input" placeholder="IP:PORT/video"
+                            style="flex:1; padding:6px; background:var(--bg-dark); color:var(--text-main); border:1px solid var(--border-color); border-radius:4px; font-size:0.8rem;">
+                        <button class="btn primary-btn connect-btn"
+                            style="padding:6px 12px; font-size:0.8rem; margin:0;">Connect</button>
+                        <button class="btn danger-btn disconnect-btn"
+                            style="padding:6px 12px; font-size:0.8rem; margin:0; background:var(--danger);"
+                            disabled>Stop</button>
+                    </div>
+                </div>
+
+                <!-- Mini Results -->
+                <div class="camera-results-mini">
+                    <div class="mini-result-box">
+                        <span class="label">Status</span>
+                        <span class="value res-status">Standby</span>
+                    </div>
+                    <div class="mini-result-box">
+                        <span class="label">Score</span>
+                        <span class="value res-score">--</span>
+                    </div>
+                    <div class="mini-result-box" style="grid-column: 1 / -1;">
+                        <span class="label">Authority Recommendation</span>
+                        <span class="value res-recommendation"
+                            style="color:var(--primary); font-size:0.75rem;">--</span>
+                    </div>
+                    <div class="mini-result-box" style="grid-column: 1 / -1;">
+                        <span class="label">Tamil Nudge</span>
+                        <span class="value res-nudge" style="color:var(--accent);">--</span>
+                    </div>
+                    <div class="mini-result-box" style="grid-column: 1 / -1;">
+                        <span class="label">AI Scene Intelligence</span>
+                        <span class="value res-description"
+                            style="font-size:0.7rem; font-style:italic; color:var(--text-muted); opacity:0.8; line-height:1.3;">--</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <script src="renderer.js"></script>
+</body>
+
+</html>

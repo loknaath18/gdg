@@ -9,6 +9,7 @@ function createWindow() {
     mainWindow = new BrowserWindow({
         width: 1200,
         height: 800,
+        icon: path.join(__dirname, 'src/assets/logo.png'),
         webPreferences: {
             preload: path.join(__dirname, 'preload.js'),
             contextIsolation: true,
@@ -20,8 +21,8 @@ function createWindow() {
 
     mainWindow.loadFile('src/index.html');
 
-    // Make sure to disable default menu for a cleaner app look (optional)
-    // mainWindow.setMenu(null);
+    // Make sure to disable default menu for a cleaner app look
+    mainWindow.setMenu(null);
 
     // Create uploads folder if it doesn't exist
     const uploadsDir = path.join(__dirname, 'uploads');

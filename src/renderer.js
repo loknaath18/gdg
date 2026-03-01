@@ -1,3 +1,28 @@
+// --- Browser Connectivity Fallbacks ---
+if (!window.electronAPI) {
+    console.warn("Electron API not detected. Falling back to Browser mode.");
+    window.electronAPI = {
+        selectImage: async () => {
+            return new Promise((resolve) => {
+                const input = document.createElement('input');
+                input.type = 'file';
+                input.accept = 'image/*';
+                input.onchange = (e) => {
+                    const file = e.target.files[0];
+                    if (!file) return resolve(null);
+                    const reader = new FileReader();
+                    reader.onload = (re) => resolve({ path: re.target.result, fileName: file.name });
+                    reader.readAsDataURL(file);
+                };
+                input.click();
+            });
+        },
+        logAction: (type, desc) => console.log(`[LOG][${type}] ${desc}`),
+        getLogs: async () => [],
+        saveCapturedFrame: async (data) => ({ success: true, path: data })
+    };
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
     // --- UI Elements - Global ---
     const navItems = document.querySelectorAll('.nav-item');
